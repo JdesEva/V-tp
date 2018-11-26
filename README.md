@@ -9,15 +9,13 @@ mint-ui + vue2.0
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. git clone https://gitee.com/Jdeshz/V-try.git
+2. Yarn install / npm i
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. git clone https://gitee.com/Jdeshz/V-try.git
+2. Yarn install / npm i
 
 #### 参与贡献
 
